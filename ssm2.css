@@ -5,3 +5,16 @@ p{
 h1, h2{
 	font-family: 'Roboto Condensed', sans-serif;
 }
+span{
+	
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	padding: 12px 50px;
+}
+
+nav{
+	width: 75%;
+	text-align: center;
+	margin: 0px auto;
+}

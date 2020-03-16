@@ -30,5 +30,6 @@ nav{
 	font-family: 'Roboto', sans-serif;
 }
 img{
-	float: right;
+	display: block;
+	margin: 0 auto;
 }
